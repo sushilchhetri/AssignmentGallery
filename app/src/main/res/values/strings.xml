@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">AssignmentGallery</string>
+    <string name="empty_response">Response body is empty.</string>
+    <string name="error_no_internet">No internet connection.</string>
+
+    <string name="error_connection_timeout">Connection timed out.</string>
+
+    <string name="error_network">Network error occurred.</string>
+
+    <string name="error_ssl">Secure connection failed.</string>
+
+    <string name="error_bad_request">Bad request.</string>
+
+    <string name="error_unauthorized">Unauthorized access.</string>
+
+    <string name="error_forbidden">Access forbidden.</string>
+
+    <string name="error_not_found">Requested resource not found.</string>
+
+    <string name="error_request_timeout">Request timed out.</string>
+
+    <string name="error_conflict">Conflict occurred.</string>
+
+    <string name="error_unprocessable_entity">Unable to process request.</string>
+
+    <string name="error_too_many_requests">Too many requests. Please try again later.</string>
+
+    <string name="error_server">Internal server error.</string>
+
+    <string name="error_unknown">Something went wrong.</string>
+
+    <string name="error_empty_response">Server returned an empty response.</string>
+
+    <string name="search_photos">Search Photos</string>
+
+    <string name="photo_thumbnail">Photo Thumbnail</string>
+
+    <string name="photo">Photo</string>
+
+    <string name="photo_not_found">Photo not found.</string>
+
+    <string name="photo_detail">Photo Detail</string>
+
+    <string name="favorite">Favorite</string>
+
+    <string name="back">Back</string>
+
+
+    <string name="error_title_required">Please enter title.</string>
+
+    <string name="error_body_required">Please enter body.</string>
+
+    <string name="title">Title</string>
+
+    <string name="body">Body</string>
+
+    <string name="create_post">Create Post</string>
+
+    <string name="select_photo">Select Photo</string>
+
+    <string name="selected_photo">Selected Photo</string>
+
+    <string name="upload_photo">Upload Photo</string>
+
+    <string name="upload_success">Photo uploaded successfully.</string>
+
+    <string name="create">Create</string>
+
+    <string name="upload_image">Upload Image</string>
+
+    <string name="new_post">New Post</string>
+
+    <string name="your_posts">Your Posts</string>
+    <string name="post_created_successfully">Post created successfully</string>
+
+</resources>
