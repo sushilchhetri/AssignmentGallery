@@ -43,7 +43,7 @@ Due to the time constraint, I focused on completing the required functionality f
 
 If I had more time, I would improve the project in the following areas:
 
-1. I used **MVVM** and tried to follow **SOLID Principles**, but there are still a few places where I can improve the code to follow SOLID more completely.
+1. I used **MVVM** and tried to follow **SOLID Principles**, but there are still a few places where I can improve the code to follow SOLID principles more completely.
 
 2. I would improve the UI to make it more user-friendly and polished with better animations, spacing, and responsiveness.
 
