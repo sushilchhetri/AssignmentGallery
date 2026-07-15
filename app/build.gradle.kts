@@ -87,4 +87,6 @@ dependencies {
     testImplementation(libs.kotlinx.coroutines.test)
 
     testImplementation(libs.androidx.core.testing)
+
+    implementation("androidx.navigation:navigation-compose:2.8.0")
 }
